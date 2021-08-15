@@ -5,7 +5,7 @@
     "env": {
         "UUID": {
             "description": "The ID for vmess/vless and password for trojan.",
-            "value": "fe919394-f173-4391-aabf-b98c8a499218"
+            "value": "45d11018-036b-4305-b920-1231a0a120b3"
         },
         "DOMAIN": {
             "description": "The Cloudflare worker domain or Heroku app domain used by end user.",
